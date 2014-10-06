@@ -4,9 +4,9 @@ layout: default
 
 ### Contents
 
-- [Declare a doctype](#doctype)
+- [Declarer la doctype](#doctype)
 - [Box model math](#box-model-math)
-- [Rem units and Mobile Safari](#rems-mobile-safari)
+- [Unités en rem et Safari Mobile](#rems-mobile-safari)
 - [Floats first](#floats-first)
 - [Floats and clearing](#floats-clearing)
 - [Floats and computed height](#floats-computed-height)
@@ -15,7 +15,7 @@ layout: default
 - [Styling table rows](#styling-table-rows)
 - [Firefox and `<input>` buttons](#buttons-firefox)
 - [Firefox inner outline on buttons](#buttons-firefox-outline)
-- [Always set a `type` on `<button>`s](#buttons-type)
+- [Toujouts préciser un `type` sur les `<button>`s](#buttons-type)
 - [Internet Explorer's selector limit](#ie-selector-limit)
 - [Position explained](#position-explained)
 - [Position and width](#position-width)
@@ -24,7 +24,7 @@ layout: default
 
 <a name="doctype"></a>
 ### Declare a doctype
-Always include a doctype. I recommend the simple HTML5 doctype:
+Toujours preciser un doctype. La simple doctype HTML5 est à favoriser :
 
 ```html
 <!DOCTYPE html>
